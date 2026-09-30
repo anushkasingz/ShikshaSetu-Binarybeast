@@ -1,0 +1,6 @@
+{
+  "name": "ShikshaSetu - AI Scholarship & Verification Platform",
+  "description": "Comprehensive scholarship orchestration platform with JAGO AI assistant, Readiness Score, Risk Radar, DigiLocker/APAAR sandbox verification, and Officer portal.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
